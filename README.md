@@ -1,3 +1,6 @@
+NOYE: Change the path in both the file according to your requirment.
+
+
 Program-1
         •	I used the dynamic allocation of STUDENTS object in main method and passed it as by reference in the function to assign the values.
         •	I used the fopen in write mode only because in program 1, I only needed to write the content of my object to the file named as “marks_180706308.txt”. I used the                   separator “/n” to detect each attribute of my object so that I could be able to read the contents as well.
