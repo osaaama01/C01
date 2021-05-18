@@ -1,4 +1,4 @@
-NOYE: Change the path in both the file according to your requirment.
+NOTE: Change the path in both the file according to your requirment.
 
 
 Program-1
