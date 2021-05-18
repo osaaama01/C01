@@ -1,5 +1,7 @@
 NOTE: Change the path in both the file according to your requirment.
 
+FILE READING/WRITING IN C
+
 
 Program-1
         •	I used the dynamic allocation of STUDENTS object in main method and passed it as by reference in the function to assign the values.
